@@ -1,11 +1,10 @@
-# Fun with Word Embeddings & Text Classification (Week 06 Seminar)
+# Word Embeddings & Text Classification 
 
 This project explores **word embeddings**, **dimensionality reduction**, and **text classification** techniques in **Natural Language Processing (NLP)**.  
 It consists of two main parts:
 1. **Exploring Word Embeddings and Visualization**
 2. **Classifying Prohibited Comments using Text Features**
 
-Developed as part of the **Week 06 Seminar** for the Data Science course, this assignment demonstrates fundamental NLP workflows using `nltk`, `gensim`, `scikit-learn`, and visualization tools such as `bokeh`.
 
 ---
 
